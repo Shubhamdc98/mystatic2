@@ -6,7 +6,7 @@ import { Observable, BehaviorSubject, tap } from 'rxjs';
   providedIn: 'root'
 })
 export class RecipeService {
-  private apiUrl = 'https://third-deployed.mangoplant-c95a8360.eastus.azurecontainerapps.io/';
+  private apiUrl = 'https://fourth-instant.mangoplant-c95a8360.eastus.azurecontainerapps.io/';
 //   private recipesSubject = new BehaviorSubject<any[]>([]);
 
 private recipesSubject = new BehaviorSubject<any>({currentRecipe:null,updatedRecipe:null,deletedRecipe:null,recipes:[]});

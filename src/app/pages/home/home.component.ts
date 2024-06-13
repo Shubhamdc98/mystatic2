@@ -5,6 +5,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { CreateRecipeComponent } from '../create-recipe/create-recipe.component';
 import { MatDialog } from '@angular/material/dialog';
 import { RecipeService } from '../../service/recipe/recipe.service';
+import { ChatBotComponent } from '../chat-bot/chat-bot.component';
 
 @Component({
   selector: 'app-home',
@@ -44,6 +45,10 @@ export class HomeComponent {
   openCreateRecipeModal = () => {
     this.dialog.open(CreateRecipeComponent);
   };
+
+  openFrame = () => {
+    this.dialog.open(ChatBotComponent);
+  }
 
   ngOnInit(): void {
     this.getRecipes();

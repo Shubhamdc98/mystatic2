@@ -6,7 +6,7 @@
     } @empty{ no recipe exist }
   </div>
 
-  <div class="fixed bottom-10 right-10">
+  <div class="fixed bottom-9 right-20">
     <button
       (click)="openCreateRecipeModal()"
       mat-fab
@@ -15,5 +15,12 @@
     >
       <mat-icon>add</mat-icon>
     </button>
+    <button color="primary" style="padding-bottom: 50px;"
+    (click)="openFrame()">
+    <div class="bot-button" id="botButton">
+      <span class="bot-icon">🤖</span>
+    </div>
+    </button>
+    
   </div>
 </div>

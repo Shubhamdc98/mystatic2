@@ -6,7 +6,7 @@ import { BehaviorSubject, Observable, catchError, map, tap } from 'rxjs';
   providedIn: 'root'
 })
 export class AuthService {
-  private baseUrl = 'https://third-deployed.mangoplant-c95a8360.eastus.azurecontainerapps.io/'; // Replace with your API base URL
+  private baseUrl = 'https://fourth-instant.mangoplant-c95a8360.eastus.azurecontainerapps.io/'; // Replace with your API base URL
 
   constructor(private http: HttpClient) {}
 
