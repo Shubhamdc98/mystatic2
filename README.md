@@ -2,8 +2,8 @@
 <h2>Project Title:</h2><b><a href="https://rcapp000012.z13.web.core.windows.net/">CookCommunity Web App using Azure Spring Apps and Static Web.</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://aiwebappazure.azurewebsites.net/ <br>
-<b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
+<b>Project Demo URL :</b> https://rcapp000012.z13.web.core.windows.net/ <br>
+<b>Demo Video URL :</b> https://drive.google.com/file/d/1BdiU6QF765_PVm3-MpJ23aJlulTx127E/view?usp=sharing <br>
 <b>Github Repository URL :</b> https://github.com/Shubhamdc98/mystatic2<br>
 <b>Industry :</b> Food and Recipes<br>
 <h2>Azure Services Used</h2>
