@@ -55,6 +55,9 @@ Azure AI Service <br>
 <h3>Azure AI Translator Service</h3>
 <b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
 <img src="https://github.com/Shubhamdc98/mystatic2/blob/main/src/assets/storage-apps.png" alt="azure-translator-ai-service"></img><br>
+<h3>Azure AI Translator Service</h3>
+<b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
+<img src="https://github.com/Shubhamdc98/mystatic2/blob/main/src/assets/storage-apps.png" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
 <img src="https://github.com/Shubhamdc98/mystatic2/blob/main/src/assets/Screenshot%202024-06-14%20125528.png" alt="final-project-demo"></img>
