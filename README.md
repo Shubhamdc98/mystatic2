@@ -52,15 +52,15 @@ Azure AI Service <br>
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
 <img src="https://github.com/Shubhamdc98/mystatic2/blob/main/src/assets/database-veer.png" alt="azure-mysql-db-service"></img><br>
-<h3>Azure AI Translator Service</h3>
-<b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
+<h3>Azure Spring App Service</h3>
+<b>Description :</b><p align="justify">Azure Spring Apps, a fully managed service for Spring Boot applications, enables CookCommunity to efficiently handle user traffic, ensuring high availability and performance even during peak usage. With built-in monitoring and diagnostics, the platform can quickly identify and resolve issues, providing a seamless user experience. Azure Spring Apps also offers robust security features, safeguarding user data and maintaining privacy.</p>
 <img src="https://github.com/Shubhamdc98/mystatic2/blob/main/src/assets/storage-apps.png" alt="azure-translator-ai-service"></img><br>
-<h3>Azure AI Translator Service</h3>
-<b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="https://github.com/Shubhamdc98/mystatic2/blob/main/src/assets/storage-apps.png" alt="azure-translator-ai-service"></img><br>
+<h3>Azure AI Chat-bot</h3>
+<b>Description :</b><p align="justify">The AI chat-bot is integrated into the platform to answer user queries, offer cooking tips, suggest recipes based on ingredients or dietary preferences, and guide users through the platform’s features. Leveraging natural language processing and machine learning, the chat-bot can understand and respond to user inquiries in a conversational manner, creating a more interactive and user-friendly experience.</p>
+<img src="https://github.com/Shubhamdc98/mystatic2/blob/main/src/assets/Screenshot%202024-06-14%20125528.png" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="https://github.com/Shubhamdc98/mystatic2/blob/main/src/assets/Screenshot%202024-06-14%20125528.png" alt="final-project-demo"></img>
+<img src="https://github.com/Shubhamdc98/mystatic2/blob/main/src/assets/working-live.png" alt="final-project-demo"></img>
 
 <h3>Resource Visualizer</h3>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
