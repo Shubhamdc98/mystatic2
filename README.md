@@ -1,4 +1,4 @@
-![image](https://github.com/Shubhamdc98/mystatic2/assets/144417155/dda2fc30-5075-41c3-ac85-8aa3a6c13dc3)<h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
+<h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
 <h2>Project Title:</h2><b><a href="https://rcapp000012.z13.web.core.windows.net/">CookCommunity Web App using Azure Spring Apps and Static Web.</b></a>
 <br>
 <h2>Project Details</h2>
