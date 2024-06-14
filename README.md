@@ -1,39 +1,41 @@
-<h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service.</b></a>
+![image](https://github.com/Shubhamdc98/mystatic2/assets/144417155/dda2fc30-5075-41c3-ac85-8aa3a6c13dc3)<h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
+<h2>Project Title:</h2><b><a href="https://rcapp000012.z13.web.core.windows.net/">CookCommunity Web App using Azure Spring Apps and Static Web.</b></a>
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://aiwebappazure.azurewebsites.net/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
-<b>Github Repository URL :</b> https://github.com/AnkeetaGupta/flask-ai-translation.git <br>
-<b>Industry :</b> Lifestyle and Technology<br>
+<b>Github Repository URL :</b> https://github.com/Shubhamdc98/mystatic2<br>
+<b>Industry :</b> Food and Recipes<br>
 <h2>Azure Services Used</h2>
 <h3>
 Core Azure Services : <br>
-1. Azure App Service <br>
-2. Azure SQL Database <br> <br>
+1. Azure Spring Apps<br>
+2. Azure MySQL Flexible Database
+3. Azure Storage Service
+  <br> <br>
 Azure AI Service <br>
-1. Azure AI Translator Service
+1. Azure AI Chat-bot
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.</p>
+<p align="justify">In today's digital age, food enthusiasts and home cooks lack a unified platform where they can not only discover and share diverse recipes but also engage with a community of like-minded individuals. Existing platforms often focus solely on recipe sharing without fostering a sense of community or facilitating meaningful interactions. This leads to a fragmented experience for users who want to share their culinary creations, receive feedback, and connect with others who share their passion for cooking.</p>
 <h2>Project Description</h2>
-<p align="justify">The "Multilingual Content Hub - VOX" is a web application designed to facilitate language translation and maintain a history of person interactions. Users can enter text, and the gadget leverages Azure AI Translator service to provide accurate and contextually relevant translations. The software additionally consists of a characteristic to show recent searches, allowing users to revisit and reuse previous translations easily.</p><br>
+<p align="justify">"cookCommunity" is an innovative platform designed for food enthusiasts, home cooks, and professional chefs to share their culinary creations and connect with a vibrant community of like-minded individuals. Our mission is to create a unified space where users can discover diverse recipes, exchange cooking tips, and celebrate the joy of food together.</p><br>
 <b>Key Features :</b>
 <ul>
-    <li>Seamless Language Translation</li>
-    <li>User-Friendly Interface</li>
-    <li>History Tracking and Recent Searches</li>
-    <li>Azure App Service Hosting</li>
-    <li>Azure SQL Database for Efficient Data Management</li>
+    <li>Recipe Sharing</li>
+    <li>Community Engagement</li>
+    <li>Discover New Recipes</li>
+    <li>Personalized Experience</li>
+    <li>Expert Tips and Articles</li>
 </ul>
 <b>Future Enhancements :</b><br>
-<p align="justify">The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
+<p align="justify">Future enhancements for CookCommunity include the development of dedicated mobile apps for iOS and Android to provide a seamless user experience on the go, along with push notifications for updates and interactions. The platform will integrate AI-powered personalized recipe suggestions and advanced search features, allowing users to find recipes based on specific ingredients and dietary needs. Video content, such as live cooking classes and recipe tutorials, will be introduced to enhance learning. Social integration for sharing achievements and gamification elements like badges and leaderboards will foster community engagement. Additional features will include a marketplace for ingredient shopping and cookware, enhanced user profiles with digital cookbooks and cooking logs, multilingual support for a global audience, and health and wellness integrations for meal planning and nutritional tracking. These enhancements will make CookCommunity a dynamic and interactive hub for food enthusiasts worldwide.</p>
 <h2>Core Azure Services</h2>
-<b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
+<b>Azure Azure Spring App :</b><br><p align="justify"><br>Azure Spring Apps, a fully managed service for Spring Boot applications, enables CookCommunity to efficiently handle user traffic, ensuring high availability and performance even during peak usage. With built-in monitoring and diagnostics, the platform can quickly identify and resolve issues, providing a seamless user experience. Azure Spring Apps also offers robust security features, safeguarding user data and maintaining privacy. By utilizing Azure Spring Apps, CookCommunity benefits from streamlined development and deployment processes, allowing the team to focus on continuously enhancing the platform with new features and improvements. </p>
 
-<b>Azure MySQL Dtatabase :</b><br><p align="justify">To store and manage recent search history, the project employs Azure SQL Database. This relational database service ensures data consistency, integrity, and enables efficient querying, making it ideal for tracking and displaying user interactions.</p>
+<b>Azure MySQL flexible Dtatabase :</b><br><p align="justify">CookCommunity utilizes Azure Database for MySQL - Flexible Server to provide a robust and scalable backend for storing user data, recipes, and community interactions. This fully managed relational database service offers high availability and automated backups, ensuring that data is always secure and accessible. The flexibility of Azure MySQL allows CookCommunity to dynamically scale its database resources to meet the needs of its growing user base without compromising on performance. With built-in security features, including advanced threat protection and data encryption, users can trust that their personal information and culinary creations are well-protected. </p>
 <h2>Azure AI Service</h2>
-<b>Azure AI Translator Service :</b><br><br><p align="justify">The core of the translation functionality is powered by Azure AI Translator service. This service employs advanced natural language processing algorithms to provide accurate and contextually relevant translations across a wide array of languages.</p>
+<b>Azure AI Chat-bot :</b><br><br><p align="justify">CookCommunity features an advanced AI chat-bot that enhances user engagement and support by providing instant assistance and personalized recommendations. The AI chat-bot is integrated into the platform to answer user queries, offer cooking tips, suggest recipes based on ingredients or dietary preferences, and guide users through the platform’s features. Leveraging natural language processing and machine learning, the chat-bot can understand and respond to user inquiries in a conversational manner, creating a more interactive and user-friendly experience.</p>
 <h2>Other Azure Technologies / Services</h2>
 <p align="justify">In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
 
